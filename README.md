@@ -90,8 +90,6 @@ MIT
 
 GitHub: [@mrVaidik](https://github.com/mrVaidik)
 
-```
 
----
 
 
