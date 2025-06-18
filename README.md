@@ -1,8 +1,6 @@
-Here’s a clean and informative `README.md` template for your **Opel Electron + Vite + React** desktop app project:
 
----
 
-````markdown
+
 # 🚀 Opel Desktop App
 
 Opel is a modern Electron desktop application built using Vite, React, Tailwind CSS, and TypeScript. This app is designed to be fast, efficient, and easy to maintain.
@@ -29,7 +27,7 @@ Make sure you have **Node.js ≥ 18** installed.
 git clone https://github.com/your-username/opel.git
 cd opel
 npm install
-````
+```
 
 > If you face dependency errors, use:
 
